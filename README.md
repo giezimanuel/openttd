@@ -30,7 +30,4 @@ Puedes contribuir para que mantengamos el proyecto en marcha y se pueda mejorar 
 Si necesitas ayuda o soporte, contáctame: 
 GIEZI MANUEL DE LOS SANTOS CASTILLO 
 HIGUEY, REP. DOMINICANA. 
-Whatsapp: 18094913197 
-giezimanuel2@gmail.com 
-https://instagram.com/giezimanuel 
 https://www.gmsiptv.com
