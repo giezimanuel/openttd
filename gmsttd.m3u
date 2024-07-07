@@ -161,13 +161,13 @@ https://59d39900ebfb8.streamlock.net/TV10SanJuan/TV10SanJuan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="RD" tvg-id="0079",RD CTN horaXhora
 https://59ef525c24caa.streamlock.net/ctn/ctn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8RdBE0Q.jpg" group-title="RD" tvg-id="0080",RD Elias Piña TV
-https://cloud5.streaminglivehd.com:3123/live/ryetvrd2live.m3u8
+https://cloud2.streaminglivehd.com:1936/8100/8100/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gKYHCaV.png"  group-title="RD" tvg-id="0081",RD CanangaTV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJx8ge5.png" group-title="RD" tvg-id="0082",RD Televisión del Este
 https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMzSt7G.png" group-title="RD" tvg-id="0083",RD R&E
-https://cloud5.streaminglivehd.com:3749/live/ryetvrdlive.m3u8
+https://cloud2.streaminglivehd.com:1936/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lBy8pQP.png" group-title="RD" tvg-id="0084",Teleunion
 https://server2grupocam.com/teleunion/TU/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eyAxc7T.png" group-title="RD" tvg-id="0085",RD JimaníTV
@@ -1189,7 +1189,7 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Ht1Pst.png" group-title="AR" tvg-id="",AR TN 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQ1O20x.png" group-title="AR" tvg-id="",AR CN247
-rtmp://panel.dattalive.com/6605140/6605140
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW6OAzG.png" group-title="AR" tvg-id="",AR Net
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Il6Qjrt.png" group-title="AR" tvg-id="",AR TVP
@@ -2171,13 +2171,13 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeWibdD.png" group-title="PA",PA TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3ONGr7W.png" group-title="PA",PA BTV Panamá
-rtmp://stream.oursnetworktv.com/latin/btvpanama
+https://stream.oursnetworktv.com/latin/btvpanama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7qUvje4.png" group-title="PA",PA Fav TV
-rtmp://video.misistemareseller.com/minfavtv/minfavtv
+https://video.misistemareseller.com:1936/minfavtv/minfavtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d0igbWk.png" group-title="PA",PA Nex
-rtmp://vcp4.myplaytv.com/nextv/nextv
+https://vcp4.myplaytv.com:1936/nextv/nextv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlUVrAv.png" group-title="PA",PA DreikoTV
-rtmp://cloudvideo.servers10.com/static//8138
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pp4NnNz.png" group-title="PA",PA Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6ybOtWu.png" group-title="PA",PA TVMAX
@@ -2304,13 +2304,13 @@ https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="VE",VE VTV
 https://f.gmsiptv.com/memfs/ee79290b-cfd6-403b-b3fe-f6cc6cd25916.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ci4ud3s.png" group-title="VE",VE Canal I
-rtmp://vcp.myplaytv.com/canali/canali
+https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFRu6WJ.png" group-title="VE",VE TeleTuya
 https://f.gmsiptv.com/memfs/b439e2a1-feb6-4824-b391-048990ae643a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE",VE Globovision
-rtmp://vcp5.myplaytv.com/globovision/globovision
+https://f.gmsiptv.com/memfs/2df070a4-95ca-4241-b805-d56281a763a0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y9Q7dZz.png" group-title="VE",VE Anzoategui
-rtmp://vcp2.myplaytv.com/anzoateguitv/anzoateguitv
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2KErSm.png" group-title="VE",VE Catatumbo
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1oIuML6.png" group-title="VE",VE BTA
@@ -2320,17 +2320,17 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J7iVk8Y.png" group-title="VE",VE VepacoTV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5veVDf.png" group-title="VE",VE Promar
-rtmp://vcp1.myplaytv.com/promar/promar
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZQU9HAX.png" group-title="VE",VE Showven
 rtmp://vcp.myplaytv.com/coll/coll
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix7gNBU.png" group-title="VE",VE TRV
-rtmp://vcp3.myplaytv.com/trv/trv
+https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMwOqdn.jpg" group-title="VE",VE Somos TV
 rtmp://vcp3.myplaytv.com/somostv/somostv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O7VoAwN.png" group-title="VE",VE Reforma
-rtmp://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TIWNF3Y.png" group-title="VE",VE MDATV
-rtmp://vcp.myplaytv.com/mdatv/mdatv
+https://vcp.myplaytv.com/mdatv/mdatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RobDXPQ.png" group-title="VE",VE tves 
 https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z9gSH9z.png" group-title="VE",VE EVTV
@@ -2338,17 +2338,17 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5a563bdf2cd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlwCnmZ.png" group-title="VE",VE VPI
 https://ythls.armelin.one/channel/UCVFiIRuxJ2GmJLUkHmlmj4w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5goR002.jpg" group-title="VE",VE TLA
-rtmp://45.173.198.59/live/nginx3
+https://f.gmsiptv.com/memfs/50baf8ae-3520-4936-8cf3-e0d2bbfd80c3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUojcZd.png" group-title="VE",VE Cantina TV
-rtmp://vcp.myplaytv.com/cantinatv/cantinatv
+https://vcp.myplaytv.com/cantinatv/cantinatv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hNASYjj.png" group-title="VE",VE GlowTV
-rtmp://vcp7.myplaytv.com/glowtv/glowtv
+https://vcp7.myplaytv.com/glowtv/glowtv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fn3wVax.jpg" group-title="VE",VE Canal Cultura Venezuela
 https://ythls.armelin.one/channel/UCMPPdsYmf-V6jukDtIfpM_A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NrTPtQR.jpg" group-title="VE",VE AguacateTV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NQhKHEu.png" group-title="VE",VE Vale TV
-rtmp://59d39900ebfb8.streamlock.net/valetv_480/valetv_480
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" group-title="VE",VE GuaroTV
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg" group-title="VE",inter TV
@@ -2356,7 +2356,7 @@ https://streamtv.intervenhosting.net:3175/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="VE",VE KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fmGgA0t.png" group-title="VE",VE Oxigeno
-rtmp://vcp.myplaytv.com/oxigenotv/oxigenotv
+https://vcp.myplaytv.com:1936/oxigenotv/ngrp:oxigenotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5pzZ4Vr.png" group-title="VE",VE TAM TV
 https://tv.webtuya.com:3459/live/tammeridalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/58TRRaN.png" group-title="VE",VE Telecentro VE
