@@ -118,7 +118,7 @@ https://5790d294af2dc.streamlock.net/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snbcCWi.png" group-title="RD" tvg-id="0059",RD Rumba
 https://ss5.domint.net:3038/rum_str/rumba985fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZORgpwp.png" group-title="RD" tvg-id="0060",RD Telealtura 
-https://5790d294af2dc.streamlock.net/telealtura/telealtura/playlist.m3u8
+https://glb.bozztv.com/glb/ssh101/codificador7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6c9XuTK.png" group-title="RD" tvg-id="0061",RD TV Vision
 https://cloudflare.streamgato.us:3691/live/tvvisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4h70BJ.png" group-title="RD" tvg-id="0062",RD DTV
@@ -471,6 +471,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a6666600008671
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo 51
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1mA3eQ.png" group-title="HISPANOS" tvg-id="234",Euronews ES
 https://admin:abielintegridad2@39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6UE6LV.png" group-title="HISPANOS" tvg-id="235",Estrella News
@@ -540,6 +542,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",Xtrema Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",GarageTV
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",Techscience365
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CULTURA" tvg-id="",HiperTV
@@ -820,8 +824,8 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="NEWS" tvg-id="",CNN 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2um4oIE.png" group-title="NEWS" tvg-id="",CNN Brasil
-https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2um4oIE.png" group-title="NEWS" 0471,CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="NEWS" tvg-id="",CBS News 1
 https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live&imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com%2Flive&imafw__fw_did=tifa%3A%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D&dai-ah=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="NEWS" tvg-id="",CBS News 2
@@ -1666,7 +1670,7 @@ https://live-hls-xpil.livepush.io/live_cdn/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txA3tev.png" group-title="HN" tvg-id="",HN TNH
-https://f.gmsiptv.com/memfs/24e6ba94-5241-4310-a3e6-bc0c143a7e90.m3u8
+https://ythls.armelin.one/channel/UCefXdxh97j3d_OM2c6xcFow.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3Ubz1q.png" group-title="HN" tvg-id="",HN VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="HN" tvg-id="",HN Dios Te Ve
