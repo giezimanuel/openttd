@@ -281,7 +281,7 @@ https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPp4Y5.png" group-title="RD" tvg-id="0140",RD Telesiglo
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L6i6s1L.png" group-title="RD" tvg-id="0141",RD Nexxo
-https://f.gmsiptv.com/memfs/958c5e1c-56af-48cc-9c12-53af81b03274.m3u8
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3q9jlIi.png" group-title="RD" tvg-id="0142",RD Mi Turno
 https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kf6PDWD.jpg" group-title="RD" tvg-id="0143",RD Palmar TV
@@ -474,13 +474,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo 51
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1mA3eQ.png" group-title="HISPANOS" tvg-id="234",Euronews ES
-https://admin:abielintegridad2@39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6UE6LV.png" group-title="HISPANOS" tvg-id="235",Estrella News
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeN3k5c.png" group-title="HISPANOS" tvg-id="236",DW ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="HISPANOS" tvg-id="237",France24 ES 
-https://f.gmsiptv.com/memfs/0184a2a9-ae69-4706-87eb-8f7aead7e259.m3u8
+https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYL7rkP.png" group-title="HISPANOS" tvg-id="238",RT ES
 https://f.gmsiptv.com/memfs/60716e9b-e89a-47e3-a065-1356e31a5277.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faY22MP.png" group-title="HISPANOS" tvg-id="239",24h
@@ -1670,7 +1670,7 @@ https://live-hls-xpil.livepush.io/live_cdn/emB7xoUdyMbnjH8/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txA3tev.png" group-title="HN" tvg-id="",HN TNH
-https://ythls.armelin.one/channel/UCefXdxh97j3d_OM2c6xcFow.m3u8
+https://f.gmsiptv.com/memfs/24e6ba94-5241-4310-a3e6-bc0c143a7e90.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3Ubz1q.png" group-title="HN" tvg-id="",HN VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="HN" tvg-id="",HN Dios Te Ve
@@ -1925,8 +1925,7 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRCCSB0.png" group-title="MUSIC",La Mega Mundial
 https://server40.servistreaming.com:3477/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MUSIC",Telehit
-https://f.gmsiptv.com/memfs/4a29ea66-ecfc-4b19-8db3-1ff299ee05fd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bwp5lST.png" group-title="MUSIC",TeleMusica
 https://canal.mediaserver.com.co/live/telemusica.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="MUSIC",Vallenato Internacional
@@ -1963,8 +1962,7 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 https://f.gmsiptv.com/memfs/56522331-03ef-4d22-9d2e-66d854efad59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qQZBugP.png" group-title="MUSIC",Tarima
 https://admin:abielintegridad2@d3lbi7fg805maa.cloudfront.net/out/v1/0112dc0bb755419396ab8da0401b1a14/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kAYTN5b.png" group-title="MUSIC",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/chunklist_w847979204_tkdHZ0b2tlbnN0YXJ0dGltZT0xNzE2ODQwNDUxJnR2dG9rZW5lbmR0aW1lPTE3MTY4NDIyNTEmdHZ0b2tlbmhhc2g9bkNPWnhEeFMxYnBTWVNMMVc2TkJhZmZrLVhJYVJtNE5iTTYzaGtVX0h0az0=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5l7aT0i.png" group-title="MUSIC",TropicalTV
 https://ssh101-fl.bozztv.com/ssh101/estvco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWshGjO.gif" group-title="MUSIC",California Music Channel
@@ -2342,7 +2340,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/5a563bdf2cd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MlwCnmZ.png" group-title="VE",VE VPI
 https://ythls.armelin.one/channel/UCVFiIRuxJ2GmJLUkHmlmj4w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5goR002.jpg" group-title="VE",VE TLA
-https://f.gmsiptv.com/memfs/50baf8ae-3520-4936-8cf3-e0d2bbfd80c3.m3u8
+https://f.gmsiptv.com/memfs/46b10da0-c898-4145-a8ef-c0e619d5cc76.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vUojcZd.png" group-title="VE",VE Cantina TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hNASYjj.png" group-title="VE",VE GlowTV
