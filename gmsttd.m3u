@@ -1484,7 +1484,7 @@ https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyotqLt.png" group-title="CR" tvg-id="",CR CBTV
 https://cloudvideo.servers10.com:8081/8030/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CR" 0798,CR Turrialba Digital
+#EXTINF:-1 tvg-logo="" group-title="CR" ,CR Turrialba Digital
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VL72lF2.jpg" group-title="CR" tvg-id="",CR Nicoya TV
 https://k4.usastreams.com/nicoyatv/nicoyatv/.m3u8
@@ -2205,26 +2205,26 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SQJlcZl.png" group-title="PE",PE Via
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCn8dds.png" group-title="PE",PE GeniosTV
-rtmp://live.obslivestream.com/static/geniostvmux
 https://live.obslivestream.com/geniostvmux/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ln6vQ2P.png" group-title="PE",PE Telecolor
-rtmp://live.obslivestream.com/static/telecolormux
+https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QY3SxVW.png" group-title="PE",PE AutenticaTV
-rtmp://live.obslivestream.com/static/autenticatvmux
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMbOAoQ.png" group-title="PE",PE Via alto mayo TV
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVAnbAw.png" group-title="PE",PE Sanjuanera TV
-rtmp://live.obslivestream.com/static/sanjuanera
+https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="PE",PE BHTV
 https://vdo.grupolimalive.com:3762/live/bhtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uhE8DrA.png" group-title="PE",PE Hechicera TV
-rtmp://video.misistemareseller.com/corporationhc/corporationhc
+https://video.misistemareseller.com/corporationhc/corporationhc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/36OPzGX.png" group-title="PE",PE Planeta TV
-rtmp://live.obslivestream.com/static/planetatv
+https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8w9IlW.png" group-title="PE",PE TV Peruanisima
-rtmp://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima
+https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOST9UA.png" group-title="PE",PE Super Canal
-rtmp://live.obslivestream.com/static/supercanal
+https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFnOQ5N.jpeg" group-title="PE",PE LimonTV
 rtmp://k4.usastreams.com/limontv1/limontv1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZ79nVz.jpg" group-title="PE",PE CREOTV HD
