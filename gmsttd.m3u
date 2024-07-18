@@ -58,7 +58,7 @@ https://kali.vdopanel.com:3396/live/arseniolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66iEHbo.png" group-title="RD" tvg-id="0029",RD Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bLnDvyF.png" group-title="RD" tvg-id="0030",RD OrientalTV
-https://cdn.essastream.com:3375/live/orientaltvlive.m3u8
+https://host.streamingnation.live/p/3691/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhvkb40.png" group-title="RD" tvg-id="0031",RD entelevision
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMpJ0GH.png" group-title="RD" tvg-id="0032",RD VTV
@@ -76,7 +76,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
 https://f.gmsiptv.com/memfs/1aed57b9-bc14-40c8-9d8a-19081f728a69.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
-https://f.gmsiptv.com/memfs/e425386a-c2bd-4733-ad96-db00f70d0a88.m3u8
+http://51.81.93.29:8084/hls/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
 https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGNIexA.png" group-title="RD" tvg-id="0041",RD AltantoTV
@@ -94,7 +94,7 @@ https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" tvg-id="0047",RD SiTV
 https://f.gmsiptv.com/memfs/ff79304f-acb6-4689-81c8-5ad14d6cd221.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD EL Nuevo Diario
-https://f.gmsiptv.com/memfs/0ab8998e-330a-435b-80eb-c50f204d1ceb.m3u8
+rtmp://nuevodiario01.streamprolive.com/stream/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqqAytI.png" group-title="RD" tvg-id="0049",RD Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFh18tt.png" group-title="RD" tvg-id="0050",RD Telemilenio
@@ -482,7 +482,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="HISPANOS" tvg-id="237",France24 ES 
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYL7rkP.png" group-title="HISPANOS" tvg-id="238",RT ES
-https://f.gmsiptv.com/memfs/60716e9b-e89a-47e3-a065-1356e31a5277.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faY22MP.png" group-title="HISPANOS" tvg-id="239",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8lXeGrJ.png" group-title="HISPANOS" tvg-id="240",HispanTV
@@ -542,7 +542,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",Xtrema Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",GarageTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="CULTURA" tvg-id="",GarageTV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA" tvg-id="",Techscience365
 https://stmv6.voxtvhd.com.br/techscience365/techscience365/.m3u8
@@ -1208,7 +1208,7 @@ rtmp://www.coninfo.net/tvcinco/live1
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pw5UrqJ.png" group-title="AR" tvg-id="",AR MedeaTV
-https://f.gmsiptv.com/memfs/7092083b-b6a9-4506-a381-37bba33037ad.m3u8
+rtmp://video.misistemareseller.com/medeatv/medeatv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXIB4Lh.png" group-title="AR" tvg-id="",AR Diario10 Rio Negro
 https://panel.host-live.com/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6es4keH.gif" group-title="AR" tvg-id="",AR C9 Litoral
@@ -1419,7 +1419,7 @@ https://fl1001.bozztv.com/ssh101/unocolfree/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X99XaW9.png" group-title="CO" tvg-id="",CO Caracol
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAK1tp3.png" group-title="CO" tvg-id="",CO Cablenoticias
-https://f.gmsiptv.com/memfs/300fc86d-3bc6-40bc-b48f-92c7bcdeb75d.m3u8
+rtmp://5ea86ddd14ce7.streamlock.net/live/cable09061970
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="CO" tvg-id="",CO Telemedellin 1
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="CO" tvg-id="",CO Telemedellin Radio
@@ -1617,7 +1617,7 @@ https://stream.oursnetworktv.com/latin/remaPresencia/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9kiwR55.png" group-title="GT" tvg-id="",GT Telecosta Esquintla
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edZjzbS.png" group-title="GT" tvg-id="",GT Canal Antigua
-https://ttd.gmsiptv.com:5443/WebRTCAppEE/streams/canalantigua.m3u8
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/72361
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYT2pLa.png" group-title="GT" tvg-id="",GT Presencia TV
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGsTBUP.png" group-title="GT" tvg-id="",GT Visión Tv HD 
@@ -1915,7 +1915,7 @@ https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m
 https://f.gmsiptv.com/memfs/639d7918-dccc-4393-8676-2faa899d360f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/25CFHpB.png" group-title="MUSIC",ViveTV
 rtmp://192.144.113.132/live/ViveTV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRkYqD6.png" group-title="MUSIC",VH1 EN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRkYqD6.png" group-title="MUSIC" 1011,VH1 EN 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zRkYqD6.png" group-title="MUSIC",VH1 EN 2
 http://38.96.178.201/live/VH1HD/index.m3u8
@@ -1937,7 +1937,7 @@ rtmp://59ef525c24caa.streamlock.net/vmtv/vmlatino
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvNe2AW.png" group-title="MUSIC",TLR
 rtmp://s.emisoras.tv/static/telerayo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJIWDjs.png" group-title="MUSIC" 1048,Mayimbe TV
-https://f.gmsiptv.com/memfs/b0e4b173-9169-474d-99b0-09fe6f509178.m3u8
+http://51.81.106.147:8084/hls/mayimbe.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JqaW7Ei.png" group-title="MUSIC",Megabox
 https://hdbox.chunklistv.com/live?stream=megabox
 #EXTINF:-1 tvg-logo="https://i.imgur.com/86iyZr1.png" group-title="MUSIC",Retro Plus
@@ -1989,12 +1989,13 @@ rtmp://vcp.myplaytv.com/italianissimo/italianissimo
 https://f.gmsiptv.com/memfs/05f1419c-cd8f-4c98-8917-1c506513a5e4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vDP3NnW.png" group-title="MUSIC",Latin Zone
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nKyghDY.png" group-title="MUSIC",Memorias TV
 https://ssh101-fl.bozztv.com/ssh101/musica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwbsnBH.jpg" group-title="MUSIC",m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqf6Rlq.png" group-title="MUSIC",Power TV
-https://f.gmsiptv.com/memfs/15a8b081-af48-4c47-a950-a8c402e19c80.m3u8
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsETLsb.png" group-title="MUSIC",Radio 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yRgMvpz.png" group-title="MUSIC",Muzzik Electro
@@ -2310,7 +2311,7 @@ https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WFRu6WJ.png" group-title="VE",VE TeleTuya
 https://f.gmsiptv.com/memfs/b439e2a1-feb6-4824-b391-048990ae643a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE",VE Globovision
-https://f.gmsiptv.com/memfs/2df070a4-95ca-4241-b805-d56281a763a0.m3u8
+https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y9Q7dZz.png" group-title="VE",VE Anzoategui
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2KErSm.png" group-title="VE",VE Catatumbo

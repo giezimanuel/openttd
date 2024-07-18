@@ -8,7 +8,7 @@ https://f.gmsiptv.com/memfs/24669755-936c-4d5c-9d83-211fbc4912f4.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" group-title="0004,RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w452934669_b1663840_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" group-title="0005,RD Telemicro
-https://f.gmsiptv.com/memfs/3f54e7d6-0044-45e2-b1e5-b8e8f2b43b80.m3u8
+https://shalom-ae5a7d4d42ca.herokuapp.com/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633780/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" group-title="173,Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" group-title="0007,RD Antena7
@@ -20,17 +20,19 @@ rtmp://f.gmsiptv.com/live/400c208a-389d-45f1-837e-fcb52dd477e2.stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" group-title="0010,RD Teleantillas
 https://f.gmsiptv.com/memfs/4fee3822-bd61-4c0c-b50c-e98117529fdc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" group-title="11,RD Telesistema
-rtmp://f.gmsiptv.com/live/19b4d941-b056-48bb-85c1-97423f9f7da9.stream
+https://f.gmsiptv.com/memfs/19b4d941-b056-48bb-85c1-97423f9f7da9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" 12,RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" 13,RD Telecentro
 https://f.gmsiptv.com/memfs/8048dafa-40eb-4068-b8cc-44278899677e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" 14,RD Catorce
-rtmp://f.gmsiptv.com/live/50327258-e35f-44f8-b042-5e7816c0e605.stream
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" 15,RD Digital Quince
 rtmp://f.gmsiptv.com/live/343b0ce3-5d84-4b98-a197-ea3c4344e655.stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD" 16,RD N16
-rtmp://f.gmsiptv.com/live/1883e2c5-dfc0-43c8-957d-167214104ac5.stream
+https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" 17,RD AION
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNfABoY.png" group-title="RD" 18,RD Carivision
@@ -58,7 +60,7 @@ https://kali.vdopanel.com:3396/live/arseniolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66iEHbo.png" group-title="RD" 29,RD Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bLnDvyF.png" group-title="RD" 30,RD OrientalTV
-https://cdn.essastream.com:3375/live/orientaltvlive.m3u8
+https://host.streamingnation.live/p/3691/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhvkb40.png" group-title="RD" 31,RD entelevision
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMpJ0GH.png" group-title="RD" 32,RD VTV
