@@ -324,8 +324,8 @@ https://cdn5.streamgato.us/p/3059/live/maquinatvlive.m3u8
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRYIdqf.jpg" group-title="RD" tvg-id="0162",RD TLSD
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L40GS2b.png" group-title="RD" tvg-id="0163",RD MiaTV
-https://f.gmsiptv.com/memfs/c9fa3541-9334-4a7f-b4b8-4a70f0dc3ef6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npdzhfm.jpeg" group-title="RD" tvg-id="0163",RD Fuerza Externa
+https://streamtv.intervenhosting.net:3404/live/fuerzaexternalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" tvg-id="0164",RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",RD TRA

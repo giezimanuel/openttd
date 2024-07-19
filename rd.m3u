@@ -16,7 +16,7 @@ https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD" group-title="0008,RD Constanza
 https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" group-title="0009,RD Color Vision
-rtmp://f.gmsiptv.com/live/400c208a-389d-45f1-837e-fcb52dd477e2.stream
+https://f.gmsiptv.com/memfs/400c208a-389d-45f1-837e-fcb52dd477e2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" group-title="0010,RD Teleantillas
 https://f.gmsiptv.com/memfs/4fee3822-bd61-4c0c-b50c-e98117529fdc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" group-title="11,RD Telesistema
@@ -28,11 +28,9 @@ https://f.gmsiptv.com/memfs/8048dafa-40eb-4068-b8cc-44278899677e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" 14,RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" 15,RD Digital Quince
-rtmp://f.gmsiptv.com/live/343b0ce3-5d84-4b98-a197-ea3c4344e655.stream
+https://f.gmsiptv.com/memfs/343b0ce3-5d84-4b98-a197-ea3c4344e655.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD" 16,RD N16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" 17,RD AION
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SNfABoY.png" group-title="RD" 18,RD Carivision
@@ -54,7 +52,7 @@ https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8nuELT.png" group-title="RD" 26,RD Makao
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="RD" 27,RD RNN
-rtmp://f.gmsiptv.com/live/36741765-5cbd-47e8-8ab9-ef35dd872b50.stream
+https://ss6.domint.net:3028/rrnn_str/rrnntv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEG7UQj.png" group-title="RD" 28,RD Vegateve
 https://kali.vdopanel.com:3396/live/arseniolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66iEHbo.png" group-title="RD" 29,RD Teleuniverso
@@ -78,7 +76,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" 38,RD Acento
 https://f.gmsiptv.com/memfs/1aed57b9-bc14-40c8-9d8a-19081f728a69.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" 39,RD Coral
-rtmp://f.gmsiptv.com/live/e425386a-c2bd-4733-ad96-db00f70d0a88.stream
+http://51.81.93.29:8084/hls/coral39.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" 40,RD Vozz
 https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGNIexA.png" group-title="RD" 41,RD AltantoTV
@@ -90,7 +88,7 @@ https://5790d294af2dc.streamlock.net/wtv43/wtv43/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lpqp9.png" group-title="RD" 44,RD Megavision
 https://server2grupocam.com/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dANzece.png" group-title="RD" 45,RD De Ultimo Minuto
-rtmp://f.gmsiptv.com/live/61e00d3e-45d0-4be5-a8d8-1247c6ea4823.stream
+rtmp://deultimominuto01.streamprolive.com/stream/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qsvkZD.png" group-title="RD" 46,RD BajoTecho
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" 47,RD SiTV
@@ -325,8 +323,8 @@ https://cdn5.streamgato.us/p/3059/live/maquinatvlive.m3u8
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRYIdqf.jpg" group-title="RD" 162,RD TLSD
 https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L40GS2b.png" group-title="RD" 163,RD MiaTV
-rtmp://f.gmsiptv.com/live/c9fa3541-9334-4a7f-b4b8-4a70f0dc3ef6.stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npdzhfm.jpeg" group-title="RD" 163,RD Fuerza Externa
+https://streamtv.intervenhosting.net:3404/live/fuerzaexternalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" 164,RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" 165,RD TRA
