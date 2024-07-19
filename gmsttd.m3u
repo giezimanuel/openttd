@@ -9,8 +9,9 @@ https://f.gmsiptv.com/memfs/24669755-936c-4d5c-9d83-211fbc4912f4.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
 https://f.gmsiptv.com/memfs/3f54e7d6-0044-45e2-b1e5-b8e8f2b43b80.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJ2myKE.png" group-title="RD" tvg-id="0006",RD Urbancrist2
-https://ssh101-fl.bozztv.com/ssh101/urbancrist2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" tvg-id="0006",RD Canal del Sol
+rtmp://5790d294af2dc.streamlock.net/canal6/canal6
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD" tvg-id="0008",RD Constanza
