@@ -30,8 +30,3 @@ https://vod.gmsiptv.com/api/public/dl/rivEhw75/radio.m3u
 Puedes contribuir para que mantengamos el proyecto en marcha y se pueda mejorar en el tiempo. 
 
  #TTD - Televisión Terrestre Digital - República Dominicana 
-
-Si necesitas ayuda o soporte, contáctame: 
-GIEZI MANUEL DE LOS SANTOS CASTILLO 
-HIGUEY, REP. DOMINICANA. 
-https://www.gmsiptv.com
