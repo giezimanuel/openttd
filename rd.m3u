@@ -6,7 +6,7 @@ https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD" group-title="0003,RD Mision ELTV
 https://fl1002.bozztv.com/ssh101/misioneltv/index.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" group-title="0004,RD RTVD
-https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w452934669_b1663840_DVR.m3u8
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1516418525_b1663840.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" group-title="0005,RD Telemicro
 https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" group-title="173,Canal del Sol
@@ -18,7 +18,7 @@ https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" group-title="0009,RD Color Vision
 https://fl1002.bozztv.com/ssh101/0009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" group-title="0010,RD Teleantillas
-https://glb.bozztv.com/glb/ssh101/0002/index.m3u8
+https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" group-title="11,RD Telesistema
 https://fl1002.bozztv.com/ssh101/0011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" 12,RD ZTV
@@ -40,7 +40,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" 20,RD Cielo
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" 21,RD Antena21
-https://f.gmsiptv.com/memfs/a85549db-af3e-47cc-af67-756d10d56d56.m3u8
+https://fl1002.bozztv.com/ssh101/0021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xiiSIjz.png" group-title="RD" 22,RD TVH
 https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" 23,RD Telefuturo
@@ -52,13 +52,13 @@ https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y8nuELT.png" group-title="RD" 26,RD Makao
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSx4Eee.png" group-title="RD" 27,RD RNN
-https://ss6.domint.net:3028/rrnn_str/rrnntv/.m3u8
+https://ss2.domint.net:3202/rnn_str/canal27/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SEG7UQj.png" group-title="RD" 28,RD Vegateve
 https://kali.vdopanel.com:3396/live/arseniolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66iEHbo.png" group-title="RD" 29,RD Teleuniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bLnDvyF.png" group-title="RD" 30,RD OrientalTV
-https://host.streamingnation.live/p/3691/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88GV4Hl.png" group-title="RD" tvg-id="0030",RD Televida
+https://fl1002.bozztv.com/ssh101/0030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhvkb40.png" group-title="RD" 31,RD entelevision
 https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dMpJ0GH.png" group-title="RD" 32,RD VTV
@@ -76,25 +76,25 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" 38,RD Acento
 https://glb.bozztv.com/glb/ssh101/acento/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" 39,RD Coral
-http://51.81.93.29:8084/hls/coral39.m3u8
+https://glb.bozztv.com/glb/ssh101/0039/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" 40,RD Vozz
 https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGNIexA.png" group-title="RD" 41,RD AltantoTV
 https://streaming.altantotv.domiplay.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3hdWZ3.png" group-title="RD" 42,RD RomanaTV
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xcIIZR6.png" group-title="RD" 43,RD WTV
-https://5790d294af2dc.streamlock.net/wtv43/wtv43/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbLP5OW.png" group-title="RD" tvg-id="0043",RD Telenovisa
+https://f.gmsiptv.com/memfs/f7fc75d3-5dbd-4341-aed2-868f099dbfe5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lpqp9.png" group-title="RD" 44,RD Megavision
 https://server2grupocam.com/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dANzece.png" group-title="RD" 45,RD De Ultimo Minuto
-rtmp://deultimominuto01.streamprolive.com/stream/live
+https://glb.bozztv.com/glb/ssh101/0045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3qsvkZD.png" group-title="RD" 46,RD BajoTecho
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" 47,RD SiTV
-https://f.gmsiptv.com/memfs/ff79304f-acb6-4689-81c8-5ad14d6cd221.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" 48,RD EL Nuevo Diario
-https://f.gmsiptv.com/memfs/0ab8998e-330a-435b-80eb-c50f204d1ceb.m3u8
+https://f.gmsiptv.com/memfs/b34318f8-459b-4d32-ab91-8b5681589cfd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD EL Nuevo Diario
+https://glb.bozztv.com/glb/ssh101/0048/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqqAytI.png" group-title="RD" 49,RD Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFh18tt.png" group-title="RD" 50,RD Telemilenio
@@ -218,7 +218,7 @@ https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D8RbUGm.png" group-title="RD" 109,RD Haina Vision
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yLLQTWa.jpg" group-title="RD" 110,RD CibaeñaTV
-https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ATsXdO.png" group-title="RD" 111,RD MaimonTV
 https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laFJQxs.png" group-title="RD" 112,RD Canalda
@@ -327,8 +327,8 @@ https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
 https://streamtv.intervenhosting.net:3404/live/fuerzaexternalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwBW5s1.png" group-title="RD" 164,RD Luz Divina TV
 https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" 165,RD TRA
-https://ssh101-fl.bozztv.com/ssh101/rctvhdtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="RD" tvg-id="0165",TRA
+http://51.81.93.29:8084/hls/tra1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DNxtCjk.png" group-title="RD" 166,RD NisibonTV
 https://5790d294af2dc.streamlock.net/nisibontv/nisibontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBEJngF.png" group-title="RD" 167,RD Punta Cana TV
@@ -349,3 +349,11 @@ https://glb.bozztv.com/glb/ssh101/amigote2021/index.m3u8
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="RD" tvg-id="254",178 RD CDN Deportes
 https://glb.bozztv.com/glb/ssh101/cdndeportes/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD RealTV
+https://f.gmsiptv.com/memfs/d1d505cf-cce3-4fbb-98b0-06c000fd6118.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RD" tvg-id="",RD Televiaducto03
+https://f.gmsiptv.com/memfs/d54468d6-cc67-44c9-8368-43360a5b8b0e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/crPcUzm.png" group-title="RD" tvg-id="",RD TNE58
+https://f.gmsiptv.com/memfs/6f137b2f-c6f5-4087-89bc-732cf5d09fbf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdovihp.jpeg" group-title="RD" tvg-id="",TV Avivamiento
+https://glb.bozztv.com/glb/ssh101/avivamientotv/index.m3u8
