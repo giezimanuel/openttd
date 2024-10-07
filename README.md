@@ -5,27 +5,13 @@ opendtt
 TV & TTD INTERNACIONAL 
 
 https://github.com/giezimanuel/openttd/raw/main/gmsttd.m3u
-
-https://bit.ly/ttdint 
-
-https://vod.gmsiptv.com/api/public/dl/nRlvw57h/gmsttd.m3u 
-
+https://bit.ly/opentvgms
 
 RD
-
 https://github.com/giezimanuel/openttd/raw/main/rd.m3u
 
-https://bit.ly/openrdtv 
-
-https://vod.gmsiptv.com/api/public/dl/qRpkdwrG/rd.m3u 
-
 RADIO: 
-
 https://github.com/giezimanuel/openttd/raw/main/radio.m3u
-
-https://bit.ly/gmsradio 
-
-https://vod.gmsiptv.com/api/public/dl/rivEhw75/radio.m3u 
 
  ¿Cómo Contribuir? 
 
