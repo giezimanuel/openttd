@@ -72,7 +72,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" 36,RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" 37,RD CDN37
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" 38,RD Acento
 https://f.gmsiptv.com/memfs/9c01095f-82c5-42e7-bd33-7b2e88860fb0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" 39,RD Coral

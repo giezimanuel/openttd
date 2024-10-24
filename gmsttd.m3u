@@ -72,7 +72,7 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b0C3skh.png group-title="RD" tvg-id="0036",RD CV Visión
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
 https://f.gmsiptv.com/memfs/9c01095f-82c5-42e7-bd33-7b2e88860fb0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
@@ -452,8 +452,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a7
 http://208.86.19.13:81/106.stream/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="HISPANOS" 280,US Univision Miami
-https://f.gmsiptv.com/memfs/d21d4cfb-14b4-4183-a679-8760dcb19661.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo 51
@@ -467,7 +466,7 @@ https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeN3k5c.png" group-title="HISPANOS" tvg-id="236",DW ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="HISPANOS" tvg-id="237",France24 ES 
-https://glb.bozztv.com/glb/ssh101/0285/index.m3u8
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYL7rkP.png" group-title="HISPANOS" tvg-id="238",RT ES
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faY22MP.png" group-title="HISPANOS" tvg-id="239",24h
@@ -539,6 +538,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="CULTURA" tvg-id="",HiperTV
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JNr32Xu.png" group-title="CULTURA" tvg-id="",AR Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
@@ -630,7 +631,7 @@ https://live.mdc.akamaized.net/hls/livestream/kicctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QAo1ub8.png" group-title="CRISTIANOS" tvg-id="",DunamisTV
 https://atechgroupuk.site/DTV.m3u8
 #EXTINF:-1 group-title="CHRISTIAN" tvg-logo="https://i.imgur.com/IsGtb0g.png" tvg-id="",Ligonier
-https://f.gmsiptv.com/memfs/854d4ca0-363e-41e3-86cb-990de33954cb.m3u8
+https://ythls.armelin.one/channel/UCut8939DdQsJI3Gw1ziAc4w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hIAuBK3.jpg" group-title="CHRISTIAN" tvg-id="",His Channel
 https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJJALwY.jpg" group-title="CHRISTIAN" tvg-id="",LightSourceTV
@@ -809,7 +810,7 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="NEWS" tvg-id="",CNN 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2um4oIE.png" group-title="NEWS" 0471,CNN Brasil
-https://f.gmsiptv.com/memfs/32378ade-2528-43c7-80cc-265e4ba13332.m3u8
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lrr28yr.png?1" group-title="NEWS" 0557,Reuters
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="NEWS" tvg-id="",CBS News 1
@@ -1366,7 +1367,7 @@ https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nndiMMh.png" group-title="BO",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOyNHGV.jpg" group-title="BO" tvg-id="",BO Bolivia 7.2 TV
-rtmp://video1.getstreamhosting.com/8224/8224
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tuIGlpg.png" group-title="BO" tvg-id="",BO Red Advenir
 rtmp://streamer1.streamhost.org:1935/salive/GMIredadvenirm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E243X2x.png" group-title="BO" tvg-id="",BO ATB La Paz
@@ -1746,15 +1747,15 @@ https://videolatam.com:3075/live/bbifhznulive.m3u8
 https://f.gmsiptv.com/memfs/5da65e39-a570-404f-9653-38ebd22bdde8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW9Lwlo.png" group-title="NI" tvg-id="0918",Canal 4 NI
-https://f.gmsiptv.com/memfs/37ac426b-cf72-4128-915d-cc23e1bf8d11.m3u8
+https://f.gmsiptv.com/memfs/a74fe7e7-a001-4ea9-8f9e-3ab500d1d4dd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z6AxJWm.png" group-title="NI" tvg-id="",NI Canal 6
 https://f.gmsiptv.com/memfs/7c27141d-9cd7-4369-84ed-a5bce5be3d87.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QbPmJR3.png" group-title="NI" tvg-id="",NI Canal 20 WTV
 rtmp://cloudvideo.servers10.com/static/8130
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgrJEwr.png" group-title="NI" tvg-id="",NI 3ABN
 https://f.gmsiptv.com/memfs/d504da3a-6027-4650-ac02-006ae712bb3f.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzVnXRe.png" group-title="NI" tvg-id="",NI Viva Nicaragua
-https://f.gmsiptv.com/memfs/c61be760-e819-4365-9260-8b0349e231c2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJu9lvZ.png" group-title="NI" tvg-id="",NI tn8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5MB2t9.png" group-title="MX" tvg-id="",MX El Financiero
 https://f.gmsiptv.com/memfs/4f6238a4-be8e-41e0-9476-d54c4ee8344c.m3u8
@@ -2286,8 +2287,7 @@ https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GRx7nZP.png" group-title="PR",PR Nueva Vida
 https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="PR",PR Univision
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="PR",PR T
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/syrAbTr.png" group-title="PR",PR NotiUno
@@ -2327,8 +2327,8 @@ https://f.gmsiptv.com/memfs/52406692-43ed-42d9-aa11-e749eb6b56ed.m3u8
 https://vcp10.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AQzZyv.png" group-title="VE",VE TeleTuya
 https://f.gmsiptv.com/memfs/50b407dd-cc21-4129-b005-df1898da9527.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE",VE Globovision
-https://f.gmsiptv.com/memfs/aeb2f070-370d-4721-bbee-6acfc52dc20d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="VE" tvg-id="1205",VE Globovision
+https://ythls.armelin.one/channel/UC06Tup55KpXujnN9LzHXBAw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y9Q7dZz.png" group-title="VE",VE Anzoategui
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G2KErSm.png" group-title="VE",VE Catatumbo
