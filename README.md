@@ -3,10 +3,15 @@ opendtt
 ¡Bienvenidos al proyecto de la Lista M3U de Canales de Televisión de la República Dominicana! Este proyecto tiene como objetivo compilar una lista abierta y actualizada de canales de televisión de la República Dominicana. La lista M3U resultante permitirá a los usuarios ver canales de televisión dominicanos desde cualquier lugar del mundo a través de reproductores compatibles con M3U, como VLC, Kodi , Tivimate y otros. 
 
 TV & TTD INTERNACIONAL 
+
 https://github.com/giezimanuel/openttd/raw/main/ttd.m3u
+
 RD
+
 https://github.com/giezimanuel/openttd/raw/main/rd.m3u
+
 RADIO: 
+
 https://github.com/giezimanuel/openttd/raw/main/radio.m3u
 
  ¿Cómo Contribuir? 
