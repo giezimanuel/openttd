@@ -4,7 +4,7 @@ opendtt
 
 TV & TTD INTERNACIONAL 
 
-https://github.com/giezimanuel/openttd/raw/main/gmsttd.m3u
+https://github.com/giezimanuel/openttd/raw/main/ttd.m3u
 https://bit.ly/opentvgms
 
 RD
