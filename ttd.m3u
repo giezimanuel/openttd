@@ -16,7 +16,7 @@ https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
-https://u.tvabierta.net/memfs/1d58d166-adc9-4cbe-921d-07da03925317.m3u8
+https://a.tvabierta.net/memfs/34a37405-d71c-4006-9304-b0b7613d334a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" tvg-id="0010",RD Teleantillas
 https://48da-45-176-99-93.ngrok-free.app/8936c796-0d8b-4e0d-a760-9bf9b899245f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
@@ -24,7 +24,7 @@ https://a.tvabierta.net/memfs/feb805c9-9096-45f3-93c7-404359c5ddbf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" tvg-id="0013",RD Telecentro
-https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37.m3u8
+https://a.tvabierta.net/memfs/fd90db83-9d2d-47b8-b457-8c3c6698b9f1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" tvg-id="0014",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" tvg-id="0015",RD Digital Quince
@@ -459,7 +459,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="HISPANOS" tvg-id="233",Telemundo 51
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="HISPANOS" 283,NTN24
-https://48da-45-176-99-93.ngrok-free.app/ccb40941-a106-476c-a843-db57c3ba1b88.m3u8
+https://48da-45-176-99-93.ngrok-free.app/memfs/ccb40941-a106-476c-a843-db57c3ba1b88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1mA3eQ.png" group-title="HISPANOS" tvg-id="234",Euronews ES
 https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6UE6LV.png" group-title="HISPANOS" tvg-id="235",Estrella News
