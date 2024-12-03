@@ -8,11 +8,11 @@ https://a.tvabierta.net/memfs/3c8ae0e3-b7e5-4a8a-8018-05e1c29c567c.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-https://a.tvabierta.net/memfs/3a5cd9ad-15c0-4220-8297-bec26948cd56.m3u8
+https://48da-45-176-99-93.ngrok-free.app/memfs/c112a3d1-ffd0-45e6-97d7-d7ab62da685f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" tvg-id="0006",Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
-https://u.tvabierta.net/memfs/8aefe158-abbf-498b-825c-02695a69fa7f.m3u8
+https://48da-45-176-99-93.ngrok-free.app/memfs/1c2fde44-60bd-470f-9565-f6e708a23e80.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cnVYbvw.png" group-title="RD" tvg-id="0008",RD Bellavision
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
@@ -40,7 +40,8 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" tvg-id="0020",RD Cielo
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
-https://u.tvabierta.net/memfs/c6e222cc-546e-4493-a0ba-913b630a5f49.m3u8
+https://48da-45-176-99-93.ngrok-free.app/memfs/6d8c15d9-2c0a-4522-aebe-b513353d47bd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSvTfgl.jpeg" group-title="RD" tvg-id="0022",RD MíaTV
 https://u.tvabierta.net/memfs/7e6ab3c9-699a-4bb6-9f8c-7496a46b3c84.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
