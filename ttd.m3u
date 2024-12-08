@@ -40,8 +40,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wUowj4i.png" group-title="RD" tvg-id="0020",RD Cielo
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="RD" tvg-id="0021",RD Antena21
-https://48da-45-176-99-93.ngrok-free.app/memfs/6d8c15d9-2c0a-4522-aebe-b513353d47bd.m3u8
-
+https://u.tvabierta.net/memfs/c6e222cc-546e-4493-a0ba-913b630a5f49.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSvTfgl.jpeg" group-title="RD" tvg-id="0022",RD MíaTV
 https://u.tvabierta.net/memfs/7e6ab3c9-699a-4bb6-9f8c-7496a46b3c84.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYt3m9D.png" group-title="RD" tvg-id="0023",RD Telefuturo
@@ -468,7 +467,7 @@ https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qeN3k5c.png" group-title="HISPANOS" tvg-id="236",DW ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="HISPANOS" tvg-id="237",France24 ES 
-https://48da-45-176-99-93.ngrok-free.app/memfs/c3c9cc8d-043a-45e6-97a5-4b5516af3eaf.m3u8
+https://u.tvabierta.net/memfs/b90271e5-67f3-4101-ae20-183287dbaaa1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CYL7rkP.png" group-title="HISPANOS" tvg-id="238",RT ES
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/faY22MP.png" group-title="HISPANOS" tvg-id="239",24h
@@ -485,7 +484,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubIyRJ.png" group-title="HISPANOS" tvg-id="244",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="HISPANOS" 286,CNNE 
-https://u.tvabierta.net/33a3dade-2cb0-4e07-8499-2a09a50cae1d.m3u8
+https://u.tvabierta.net/memfs/1a55b03b-0be5-40b9-8c14-9ec64a1ca518.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAWhxK6.png" group-title="CUBA" tvg-id="0245",CU Prensa Latina
 https://eu1.servers10.com:8081/8192/index.m3u8
