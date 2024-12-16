@@ -826,8 +826,6 @@ https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6SzXO1.png" group-title="NEWS" tvg-id="",Fox News
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t6SzXO1.png" group-title="NEWS" tvg-id="",Fox News HD
-https://u.tvabierta.net/memfs/fa3a26d2-e5f3-47b7-91f3-c3be943cdfbb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nXSmxJi.jpg?1" group-title="NEWS" tvg-id="",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BpcrFyN.png" group-title="NEWS" 0478,US Fox Weather
@@ -1463,20 +1461,20 @@ https://u.tvabierta.net/memfs/0b4a4e69-4626-4e28-9252-842740cd3140.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e1e0ae47b803ab15e41266a4d66ca297.png" group-title="CR" tvg-id="",CR Teleuno 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/noNB15u.png" group-title="CR" tvg-id="",CR Teleuno 
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xCHg8Ul.png" group-title="CR" tvg-id="",CR 13
-https://u.tvabierta.net/memfs/7b10ee60-c66b-427f-98ac-957f48f7a795.m3u8
+https://u.tvabierta.net/memfs/bf200157-35b8-433b-82bf-e021d550ce2e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zWqB9lI.png" group-title="CR" tvg-id="",CR Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CR" 0793,CR Canal1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p9UjsMY.jpeg" group-title="CR" 0793,CR Canal1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoWu3gq.png" group-title="CR" tvg-id="",CR Telefides
 https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5P9hzZP.png" group-title="CR" tvg-id="",CR TV Sur
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+https://k20.usastreams.com:8081/tvsur/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="CR" tvg-id="",CR 88 Stereo
-http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TyotqLt.png" group-title="CR" tvg-id="",CR CBTV
 https://cloudvideo.servers10.com:8081/8030/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CR" ,CR Turrialba Digital
