@@ -24,11 +24,11 @@ https://www.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=zLq0ggB2qI_j-zUHfNcV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" tvg-id="0013",RD Telecentro
-https://u.tvabierta.net/memfs/966badef-a62a-4386-9db4-0665ff13ae37.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/10501048/broadcasts/255204723.secure.m3u8?dw=14400&hdnea=st%3D1737431634~exp%3D1737433434~acl%3D%2Fi%2F27456795_10501048_lsizrqayvuwyvg06jpr_1%40408789%2F%2A~hmac%3D8cff1a37b381242a86ade17110cf0e94b4ae67dc91e48a5f86a699d8f67ca63c&token=678f1b7e_ef47354912f00a6e647654ec9719e4741c4693cb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" tvg-id="0014",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" tvg-id="0015",RD Digital Quince
-https://u.tvabierta.net/memfs/2d135254-e072-439c-9c1c-6c4e4c85eea7.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/255206530.secure.m3u8?dw=14400&hdnea=st%3D1737431606~exp%3D1737433406~acl%3D%2Fi%2F27456795_10633798_lsiendk3of4eq6mu48y_1%40446874%2F%2A~hmac%3De6ac845b1ebf092f91940820127b11721cba37193e127533c5e4e9bb21bdeaac&token=678f1b62_e83418d679766398be318ae1b2e49381ee3e0463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD" tvg-id="0016",RD N16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" tvg-id="0017",RD AION
