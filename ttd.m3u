@@ -4,7 +4,7 @@ https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="RD" tvg-id="0002",RD TV Luz
 https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="RD" tvg-id="0003",RD Mision ELTV
-https://u.tvabierta.net/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
+https://stream.gia.tv/giatv/giatv-misioneltv/misioneltv/playlist.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
@@ -74,7 +74,7 @@ https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RD" tvg-id="0037",RD CDN37
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/ae3e71b4-52af-d834-7388-fc75f9401a03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
-rtmp://admin:abielintegridad2@acentotv01.streamprolive.com/stream/live
+rtmp://acentotv01.streamprolive.com/stream/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
 https://fl1002.bozztv.com/ssh101/rctvhd21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
@@ -94,7 +94,7 @@ https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="RD" tvg-id="0047",RD SiTV
 http://admin:abielintegridad2@190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="RD" tvg-id="0048",RD El Nuevo Diario
-rtmp://admin:abielintegridad2@nuevodiario01.streamprolive.com/stream/live
+rtmp://nuevodiario01.streamprolive.com/stream/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="RD" tvg-id="0048",RD CTT49
 https://vdo1.streamgato.us:3305/live/cct49live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFh18tt.png" group-title="RD" tvg-id="0050",RD Telemilenio
