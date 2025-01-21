@@ -8,7 +8,7 @@ https://u.tvabierta.net/memfs/b0b45b0e-46de-4069-881f-50b6ab46b473.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/255198623.secure.m3u8?dw=14400&hdnea=st%3D1737431328~exp%3D1737433128~acl%3D%2Fi%2F27456795_10633780_lsixkmhb5gunibhwhnz_1%40380052%2F%2A~hmac%3D4f62edb7516b6f1f735bb13e94afe9a1d295f8946666423169773a8efcfe28ff&token=678f1a4c_c5753a0ddc66b96b88a9ee59ff16e79b57bfb49f
+https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/255220923.secure.m3u8?dw=14400&hdnea=st%3D1737472693~exp%3D1737474493~acl%3D%2Fi%2F27456795_10633780_lsi327mfw6un30lw1fr_1%40447446%2F%2A~hmac%3Dbb07238f93db24c317eff5c7db0d484ad911f3af3c25264c86442e397f53a13c&token=678fbbe1_d448ef3c7d5c4931c87f6850037e835107a91d60
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" tvg-id="0006",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
@@ -16,11 +16,11 @@ https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD" tvg-id="0008",RD ConstanzaTV
 https://glb.bozztv.com/glb/ssh101/ctv8hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
-https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=wmQFmjrYp-WZH3jcUV1NV0oPQ9Lf5kyuIAosjfGKZza_VyeTrlcbiMfVzRgqrkcJI2tLlUAGfgAGA9ehtVq_MQ&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
+https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=IyoQt1oiAVTEG_JZ7FsbMg91Pjn081LHW3H5C2sM5u3fXOo8TsOOsmk4xW4vP0YJscTlwsAFsAOjbZjWf4wplQ&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" tvg-id="0010",RD Teleantillas
-https://live-c2.cf.dmcdn.net/sec2(-4DQ7qWT4eD78TFq2SmnC48bcafHBgI3_RLbTBJGs00ISksdkGI4jZ8Lh20rpBKKAdEEzMrcZ2VzR-zo9F9939dJ0Ix76Fd0bAaxwWq45AaGDzJjtk0Ug5zxEuh2eNYA)/cloud/3/x8mwmvs/s/live-480.m3u8#cell=lcfc2
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8mwmvs.m3u8?auth=1737645380-2562-2xaluy0o-f2f9abea9e1f999d0f4367cb41cd0831EHLEf1X792L93tWtTlIRHaGTFklPL49dkvfbhLmYJnKpdQ58oMLdwx_9f59p_ECilDW05DcZIyU-BsrqUVP64HIFnYkbj4FzfAHKqJ1GxpT7uLOgSi-6B_ArbKh7fzhpUXGOKdKuwqgIW6fUYOArH7b0BkBVZIbHy7ba0wTiOq-a5zaKxqfo4xEWOykYKk-vdLE0REcbmZ_QmHuX9_0yPNfPGwZr3zXTZ31wPeyNPJKdhG92fdyZg_SXh7veYUi-DHIn6It1zumej-i1qdAbcp3NyauEwfdrJekfa13Ls8deXs7W1HQBdKHkKTO3WAOPhdbyGUPnD76grE9UEHyYfUs8kkPVha4vmBbfuk3PGKoHuwHva6cjmKbGHosvU03_2vomgc8IwKG5jyK9kUV0ONZJzxSXynLQOwnZBoVsCtvmSj--DWcL_lq58Hdu-aLQwjycxH93uqbz8uEZkJnDTIE27aEAPXwiJvocQEynYJcuEAxcLMhnAOcUzhFnu_e3uoXwiq87SQvSdpgUru37HRhllfnZiRVHO79AzoOosB4aKfGMDWqQp0RtPmbGQHjYud4xT9wettQ-ijTAaLFLdJi-P9KPLK2hKf7cWL4-PFct3ANATUmLXZGpUVgy_bXDyGpEJVUXEektYRJYD_4apQgPZ_58UUg3L4wzPfneFsg6S-bm6wZ4ZzIpWbLa4ztFQ1fzqx5q-8sovLEOK241WykTokD8qbIYFou7JgyrQsk_3VwIFyyF6DEH2UcM7eNrVJyP_VE8HhIPTlVEp5MQNX4eTnkuVjEKq7sdP_q65vbraarWGz1WRygMReB8cQzGe4AhcdfTYVPH86ezTzzchTWIuNKrpZvlGephlpYSkv7OKereRR_LV3_i7LuPnVKk7flck6xOSnxg2Kn17ao9uoBjR3vVq7DLExIBLgrMNNkvZCmqxii4cO-7pWerDIKBC4gx6eXFPwx9NA4CxS3xmwolme1VGfQbuCMUzC4Bg_poAQDvomTnvRqzA2Oj_Zk6rg_p-qMv2gDrJfGlNi9wFjO0Vyoeh61f2EREUYdtM4kRC0poUnkf4WryO528n_n_NFItagLOzWJ05RPf0CnVdev7EYdBSel_uLIuH3QNyR-TvrDxJXE97K8hPEcZaS-1UUZMmtJR-XrWxWGEKhIilNCDJBmawF655YRfDQtia2o6wC_8VNIVot2rWIOgypuJege3wl4mx1mKU5Vq6iuI2qQ&af=[APIFRAMEWORKS]&vv=[VASTVERSIONS]&mm=[MEDIAMIME]&pbm=[PLAYBACKMETHODS]&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1YNY&eb=https%3A%2F%2Fteleantillas.com.do%2F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
-https://www.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=zLq0ggB2qI_j-zUHfNcVpIWe8ef7HrRcpAGxGoBzZP4CX50gUfXQz0WUMql5nqqds8tgAW7q4TBPDUY2o_AwoAephrKNZnO7joVO4DPb4TY&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
+https://cdndirector.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=LTVz9bQ7j4jiWBZW78RKxEkeK9-p9jdMkVGP4qoWjRvKyGir1e2iTTzDpTFWlv_AIjOZXw_0C9Fg2b1ZCCm7wkr7ISSQGegYRWYH3Pjr7qI&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" tvg-id="0013",RD Telecentro
@@ -471,8 +471,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubIyRJ.png" group-title="HISPANOS" tvg-id="244",UCL
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="HISPANOS" 286,CNNE 
-https://admin:abielintegridad2@thelidertv.online/live/gmsiptv2024/1234@gms/9110.m3u8
-
+http://186.148.195.206:8000/play/a0oa/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAWhxK6.png" group-title="CUBA" tvg-id="0245",CU Prensa Latina
@@ -1370,6 +1369,12 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_Cochabamb
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GSScndl.png" group-title="CL" tvg-id="",CL T13
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CL" tvg-id="https://i.imgur.com/qiWU04Z.png",CL 13 C
+http://186.148.195.206:8000/play/a0pa/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CL" tvg-id="https://i.imgur.com/bKGNmQG.png",CL 24 horas
+http://186.148.195.206:8000/play/a0pm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9bySwO.png" group-title="CL",TVN
+http://186.148.195.206:8000/play/a0qi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hQp5yAj.png" group-title="CL" tvg-id="",CL VC Medios
 rtmp://panel.tvstream.cl/8024/8024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqlmghq.png" group-title="CL" tvg-id="",CL UMAG TV 2
@@ -1512,6 +1517,11 @@ https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CR" tvg-id="",CR TV8
 https://glb.bozztv.com/glb/ssh101/tv8cr/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X15sedk.png" group-title="EC",Teleamazonas
+http://186.148.195.206:8000/play/a0oo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diRccnL.png" group-title="EC",Ecuavisa
+http://186.148.195.206:8000/play/a0qy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sEW6C5G.png" group-title="EC" tvg-id="",EC Canal Uno
 https://video.ejeserver.com/live/canaluno.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2FySOLB.png" group-title="EC" tvg-id="",EC PuruwaTV
@@ -2185,7 +2195,7 @@ https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rz8tKqI.png" group-title="PE",PE Willax 
 https://u.tvabierta.net/memfs/9f7d714c-5fb8-48d0-ac73-47f8d6a46ff5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtrK9rk.png" group-title="PE",PE PanamericanaTV
-https://u.tvabierta.net/memfs/8607132a-3e1b-43e1-81c4-df1919fa7080.m3u8
+http://186.148.195.206:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MfQm4cs.png" group-title="PE",PE Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8xesZd.jpg" group-title="PE",PE tvpe 
@@ -2426,6 +2436,8 @@ https://new-international-23-secure2.akamaized.net/index.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="ES" 1264,ES La7
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EyKGjk3.png" group-title="ES" 1263,A3S
+http://186.148.195.206:8000/play/a05h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="ES",ES 8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="ES",ES Distrito TV
