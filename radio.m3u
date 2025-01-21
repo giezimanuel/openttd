@@ -1,53 +1,57 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SyNp3eS.png" group-title="RADIO",GMS 1
-https://radio.gmsiptv.com/gms
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SyNp3eS.png" group-title="RADIO",GMS 2
-https://radio.gmsiptv.com/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SyNp3eS.png" group-title="RADIO",GMS 
+https://radio.tvabierta.net/gms
 #EXTINF:-1 tvg-logo="" group-title="RADIO",Biblia en audio
-https://radio.gmsiptv.com/biblia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="AUDIO",ELTV audio 
-https://stream.zeno.fm/v2nn7w0rcq8uv
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLYPLI4.png"group-title="AUDIO",Audio RTVD
-https://radio.gmsiptv.com/rtvd
+https://radio.tvabierta.net/biblia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="AUDIO",Audio Misión ELTV 
+https://radio.tvabierta.net/misioneltv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="AUDIO",Audio ZTV
-https://radio.gmsiptv.com/ztv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IsGtb0g.png" group-title="AUDIO",Audio Ligonier 
-https://radio.gmsiptv.com/ligonier
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WRRfJd1.png" group-title="AUDIO",Audio Euronews ES
-https://radio.gmsiptv.com/euronewses
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="AUDIO",Audio France24 es
-https://radio.gmsiptv.com/france24es
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="AUDIO",Audio EL Nuevo Diario
-https://radio.gmsiptv.com/elnuevodiario
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c18G7Bu.png" group-title="AUDIO",Audio BBC News
-https://radio.gmsiptv.com/bbcnews
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9LfdAg.png" group-title="AUDIO",Noticias SIN
-https://radio.gmsiptv.com/noticiassin
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="AUDIO",Audio Cubavision
-https://radio.gmsiptv.com/cubavision
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="AUDIO",audio VTV
-https://radio.gmsiptv.com/vtvve
-
+https://radio.tvabierta.net/0012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="AUDIO",Audio Teleantillas
-https://radio.gmsiptv.com/teleantillas
+https://radio.tvabierta.net/0010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="AUDIO",Audio Telemicro
-https://radio.gmsiptv.com/telemicro
+https://radio.tvabierta.net/0005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="AUDIO" tvg-id="0007",Audio Antena7
+https://radio.tvabierta.net/0007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="AUDIO",Audio Color Vision
-https://radio.gmsiptv.com/colorvision
-#EXTINF:-1 tvg-logo="https://i.imgur.com/edgMWBG.png" group-title="AUDIO",Audio TV Luz
-https://radio.gmsiptv.com/tvluz
+https://radio.tvabierta.net/0009
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="AUDIO",Audio Telecentro
-https://radio.gmsiptv.com/telecentro
+https://radio.tvabierta.net/0013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="AUDIO",Audio Digital15
-https://radio.gmsiptv.com/digital15
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RK8QiXc.png" group-title="AUDIO",Ecos TV
-https://radio.gmsiptv.com/ecostv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RADIO",Audio CDN37
-https://radio.gmsiptv.com/cdn37
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="RADIO",Audio Globovision
-https://radio.gmsiptv.com/globovision
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uf4shmU.png" group-title="RADIO",Audio Africanews
-https://radio.gmsiptv.com/africanews
+https://radio.tvabierta.net/0015
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88GV4Hl.png" group-title="AUDIO" tvg-id="",Audio Televida
+https://radio.tvabierta.net/0030
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="AUDIO" tvg-id="0038",Audio Acento
+https://radio.tvabierta.net/0038
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="AUDIO",Audio Coral
+https://radio.tvabierta.net/0039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcCgepM.png" group-title="AUDIO" tvg-id="0047",RD SiTV
+https://radio.tvabierta.net/0047
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qMoWqUy.png" group-title="AUDIO" tvg-id="0048",Audio EL Nuevo Diario
+https://radio.tvabierta.net/0048
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mo4Wvdd.png" group-title="AUDIO" tvg-id="0024",Audio Multivision
+http://ssh101.bozztv.com/ssh101/canalmulti24/icecast.audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AQzZyv.png" group-title="AUDIO" tvg-id="1204",Audio VE TeleTuya
+https://radio.tvabierta.net/1204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NurHT5q.png" group-title="AUDIO" tvg-id="0165",Audio TRA
+https://radio.tvabierta.net/165
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hWGJjg.png" group-title="AUDIO" tvg-id="0074",Test GMS
+http://tv.gmsiptv.com:8000/0003
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="AUDIO",Audio France24 es
+https://radio.tvabierta.net/0285
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="AUDIO" 286,Audio CNNE 
+https://radio.tvabierta.net/0286
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="AUDIO",Audio Cubavision
+https://radio.tvabierta.net/0298
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBFi06w.png" group-title="AUDIO" 0372,Audio Adoram
+http://ssh101.bozztv.com/ssh101/adoram/icecast.audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IsGtb0g.png" group-title="AUDIO",Audio Ligonier 
+https://radio.tvabierta.net/0378
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6SzXO1.png" group-title="RADIO",Audio Fox News
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D71ySxX.png" group-title="RADIO",HCH
+https://ssh101.bozztv.com/ssh101/hchtvenvivo/icecast.audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="AUDIO",audio VTV
+https://radio.tvabierta.net/1201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ow36K4F.png" group-title="RADIO",88.1 Primera (SD)
 http://n02.radiojar.com/5705c71sn2zuv?rj-ttl=5&rj-tok=AAABd7EIt3cAfPKWTmGhYgUp3g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1iVu07Z.jpg" group-title="RADIO",88.5 Zulu Radio (SD)
@@ -82,10 +86,7 @@ http://rss5.domint.net:8004/;
 https://rss3.domint.net:8198/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DdnWAmV.png" group-title="RADIO",91.1 La91fm
 https://radio4.domint.net:8098/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nAZCTvo.jpeg" group-title="RADIO",91.5 Misionera 1
-https://radio.gmsiptv.com/misionera
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jOT19aR.png" group-title="RADIO",91.5 Misionera 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jOT19aR.png" group-title="RADIO",91.5 Misionera 
 https://stream.zeno.fm/vget1nz0czxvv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Tu3MgT.png" group-title="RADIO",91.7 La Rocka (SD)
 https://stream-158.zeno.fm/v4afxc8gtnhvv
@@ -104,21 +105,23 @@ https://c13.radioboss.fm:18187/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49GqOQx.png" group-title="RADIO",92.3 Estrella Bavaro
 https://c13.radioboss.fm:18187/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RADIO",92.5 CDN Radio 
-https://radio.gmsiptv.com/cdnradio
+https://radio.tvabierta.net/cdnradio
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NWVW9QV.png" group-title="RADIO",92.5 CDN Radio 
 https://play.cdnradio.com.do/cdnlive
 #EXTINF:-1 tvg-logo="https://i.imgur.com/edOXXr0.png" group-title="RADIO",CDN Deportes 
-https://radio.gmsiptv.com/cdndeportes
+https://radio.tvabierta.net/cdndeportes
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSlEA3s.png" group-title="RADIO",92.9 Pura Vida
 https://sonic.radiostreaminglatino.com/8294/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7plZYms.png" group-title="RADIO",92.9 Radio VEN (Barahona)
-https://streaming.serveraudio.net:6014/stream
+https://streaming.serveraudio.net/stream/sanjuan929/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7plZYms.png" group-title="RADIO",92.9 Radio VEN (Barahona)
+https://streaming.serveraudio.net/stream/barahona929/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uLI1WU7.png" group-title="RADIO",92.9 Radio (Bávaro)
 https://c5.radioboss.fm:18219/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KuJyDof.png" group-title="RADIO",92.9 Orbita
 http://puertoplataradio.com:8004/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i5D0iNu.png" group-title="RADIO",93.3 Independencia
-http://node-28.zeno.fm/s3p6r5rct7zuv.aac?rj-ttl=5&rj-tok=AAABeO1d3UEAPXPXacemQKB1ZQ
+https://n0b.radiojar.com/nc893hafc8zuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TuuRAWr.jpg" group-title="RADIO",93.7 Latidos (SD)
 https://rstream.hostdime.com/proxy/latidos?mp=/8880
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NdFwIeS.png" group-title="RADIO",94.1 Fidelity (SD)
@@ -169,7 +172,6 @@ https://rss3.domint.net:8014/stream
 https://radio4.domint.net:8090/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jMxxxHH.png" group-title="RADIO",99.5 Sultana FM 
 https://stream-156.zeno.fm/ftg8d65262quv
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qv7JbDh.png" group-title="RADIO",Cachicha Radio
 https://rss3.domint.net:8164/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yMyrXi.jpg" group-title="RADIO",99.7 Fortaleza Mia
@@ -182,8 +184,8 @@ http://rss4.domint.net:8070/stream/1/
 https://rs5.domint.net:8188/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1e6swq.png" group-title="RADIO",100.1 Premium
 https://radio4.domint.net:8088/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PLFquwW.pngg" group-title="RADIO",100.3 Cima100
-https://mars.streamerr.co/8344/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLFquwW.png" group-title="RADIO",100.3 Cima100
+https://mars.streamerr.co/8196/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zFpELVd.png" group-title="RADIO",100.3 Monumetal
 https://radio2.grupointernet.com/8103/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ej1Ealg.png" group-title="RADIO",100.7 Tiempo FM
@@ -195,7 +197,7 @@ https://sonic.radiostreaminglatino.com/8298/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aFhU7XT.png" group-title="RADIO",101.1 Premium
 https://rss3.domint.net:8100/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RADIO",101.3 Z101
-https://21933.live.streamtheworld.com/Z101FM.mp3
+https://19253.live.streamtheworld.com/Z101FM_SC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zC2Zlu2.jpg" group-title="RADIO",101.7 Top Latina
 http://rs3.domint.net:8094/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AH2AJxj.png" group-title="RADIO",101.9 Amar Higuey
@@ -204,7 +206,7 @@ https://stream.zeno.fm/v3c46820fnruv
 https://radio4.domint.net:8172/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOBFZoQ.png" group-title="RADIO",102.5 Escandalo
 https://rss3.domint.net:8028/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WwMX1JX.png" group-title="RADIO",102.5 HIFA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WwMX1JX.png" group-title="RADIO",102.5 HIFA La Voz de las fuerzas armadas
 https://radio4.domint.net:8092/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo7tbFK.png" group-title="RADIO",102.9 Raices
 http://rss5.domint.net:8120/stream/1/
@@ -238,33 +240,31 @@ https://rs5.domint.net:8170/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uz3WFtx.png" group-title="RADIO",105.1 Canal 105
 http://node-02.zeno.fm/qp9m3zxqtg0uv?rj-ttl=5&rj-tok=AAABeu_1ReUAPyjq6O12E9x6bA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7plZYms.png" group-title="RADIO",105.5 VEN
-https://streaming.serveraudio.net/stream/radioven1055
+https://streaming.serveraudio.net/stream/radioven1055/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jquu85q.png" group-title="RADIO",106.10 Disco
 https://radio4.domint.net:8050/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiMubi4.png" group-title="RADIO",106.1 Criolla 1
-http://rgradio.net:8060/criolla106.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiMubi4.png" group-title="RADIO",106.1 Criolla 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LiMubi4.png" group-title="RADIO",106.1 Criolla 
 https://streaming.grupomediosdelnorte.com:8002/stream
 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RscR5kk.png" group-title="RADIO",106.3 Escala
 https://radio4.domint.net:8102/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a82ZvQw.png" group-title="RADIO",106.3 Nitida Higuey
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVn0Ls0.png" group-title="RADIO",106.3 Nitida Higuey
 https://stream.zeno.fm/gqqkgpc6h0hvv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a82ZvQw.png" group-title="RADIO",106.3 Nitida Seibo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVn0Ls0.png" group-title="RADIO",106.3 Nitida Seibo
 https://stream.zeno.fm/dnfezxfilaevv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a82ZvQw.png" group-title="RADIO",106.3 Nitida Romana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RVn0Ls0.png" group-title="RADIO",106.3 Nitida Romana
 https://stream.zeno.fm/ud88ea4wrzzuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rKvvf8S.png" group-title="RADIO",106.3 Perla
 https://radio5.domint.net:8216/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KMTaOr.png" group-title="RADIO",106.50 Zol
 https://rss3.domint.net:8010/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4xpDfh.png" group-title="RADIO",106.9 Kool
-https://radio.gmsiptv.com/kool
+https://radio.tvabierta.net/kool
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D4xpDfh.png" group-title="RADIO",106.9 La Voz de las fuerzas armadas
+https://ss9.domint.net:3016/voz_str/lavozdelafa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BJkmW7V.png" group-title="RADIO",106.9 La Nueva
 http://procyon.shoutca.st:8807/stream/1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9qgMEKS.png" group-title="RADIO",107.1 Enamorada (Independencia)
@@ -285,20 +285,23 @@ https://paginas.moisespaulino.com/proxy/rsantamaria/stream?type=.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMkAxbX.png" group-title="RADIO",570 Radio Crystal
 https://stream.zeno.fm/fu9hfhw8na0uv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZnBZ89.png" group-title="RADIO",620 Radio Santo Domingo 1
-https://radio.gmsiptv.com/radiosantodomingo
+https://radio.tvabierta.net/radiosantodomingo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ZnBZ89.png" group-title="RADIO",620 Radio Santo Domingo 2
 https://protvradiostream.com:8630/stream 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TAoOWi3.png" group-title="RADIO",650 Radio Universal 
-https://cento01.mipanelradio.com/proxy/hetorres?mp=/stream
+https://sp04.servidorrprivado.com/1488/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JpHx8pH.png" group-title="RADIO",670 Dial
 https://node-08.zeno.fm/8wgv914262quv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtBJ30j.png" group-title="RADIO",690 Guarachita
 https://rss3.domint.net:8018/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MH4k2RE.png" group-title="RADIO",700 Radio Gosen
+https://s5.radio.co/sfc2826e6e/listen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0nMbJ4M.png" group-title="RADIO",710 RNC
 https://node-09.zeno.fm/03yn1w98swzuv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPQdrqw.png" group-title="RADIO",720 Radio Norte
 https://node-09.zeno.fm/03yn1w98swzuv
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgZVG1e.png" group-title="RADIO",790 La Voz del Tropico
+https://radio.tvabierta.net/lavozdeltropico
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZPswz4.png" group-title="RADIO",800 RTM Bonaire
 https://cdn.instream.audio/:9050/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZPswz4.png" group-title="RADIO",800 RTM Dominicana
@@ -308,7 +311,7 @@ https://emiteradio.com/proxy/rtmsatelite?mp=/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RS5JY0A.png" group-title="RADIO",800 RTM Colombia
 https://play14.tikast.com:22008/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fvXjx84.png" group-title="RADIO",RTM Brazil
-https://18313.live.streamtheworld.com/RADIOTRANSMUNDIALAAC_SC
+https://video.midiaserverbr.com:3975/live/rtmbrlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tZPswz4.png" group-title="RADIO",800 RTM Netherlands
 https://twrnl.out.airtime.pro:8000/twrnl_a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u91JrNi.jpg" group-title="RADIO",TWR UK
@@ -329,8 +332,8 @@ https://s8.myradiostream.com/:57832/listen.mp3?nocache=1659413364
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCfyDyP.png" group-title="RADIO",970 Barahona
 https://rs5.domint.net:8092/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4ko7K8.png" group-title="RADIO",990 Eternidad
-https://ss.redradios.net:8011/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WjEkpT.png" group-title="RADIO",990 Eternidad
+https://cast5.my-control-panel.com/proxy/radioete/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SkvpzzD.png" group-title="RADIO",1100 Radio Oriente
 https://radio5.domint.net:8126/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/azyhkik.png" group-title="RADIO",1060 Amanecer
@@ -344,11 +347,11 @@ https://rss3.domint.net:8144/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gupRdLf.png" group-title="RADIO",1150 Radio Hispaniola
 https://stream-142.zeno.fm/622b5pw8na0uv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaD7Ymd.png" group-title="RADIO",1160 Lighthouse
-https://ic1.sslstream.com/crl?rnd=1898
+https://das-edge09-live365-dal03.cdnstream.com/a51931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O5dx4ki.png" group-title="RADIO",1380 Radio Nacional
 https://streaming.grupomediosdelnorte.com:8006/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7plZYms.png" group-title="RADIO",1200 Radio VEN
-https://streaming.serveraudio.net:6002/stream
+https://streaming.serveraudio.net/stream/radioven1055/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n28UrcV.png" group-title="RADIO",1200 Caracol Azua
 https://rs4.domint.net:8108/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pv1iz2U.png" group-title="RADIO",1210 Radio Merengue
@@ -373,6 +376,8 @@ https://rs4.domint.net:8122/stream
 https://radio4.domint.net:8106/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIFQ1Av.png" group-title="RADIO",1680 Radio Senda
 https://radio.radiord.net/8006/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Src70Pr.png" group-title="RADIO",910 La numero uno Miami
+https://ice66.securenetsystems.net/WTMY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8arsVH.png" group-title="RADIO",BBN ES
 https://streams.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8arsVH.png" group-title="RADIO",BBN EN
@@ -409,16 +414,11 @@ https://radio5.domint.net:8054/stream
 https://radio.streamingcpanel.com:8044/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Tropical
 https://radio.dominiserver.com/proxy/pinponradio?mp=/stream;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Instrumental
-https://radio.dominiserver.com/proxy/pinponinstrumental?mp=/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Bachata
-https://radio.dominiserver.com/proxy/pinponbachata?mp=/stream;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Romantica
-https://radio.dominiserver.com/proxy/pinponromantica?mp=/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Merengue
-https://radio.dominiserver.com/proxy/pinponmerengue?mp=/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhwxgfj.png" group-title="RADIO",Pinpon Urbana
-https://radio.dominiserver.com/proxy/pinponurbana?mp=/;
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://c7.radioboss.fm/stationlogo/161.png" group-title="RADIO",Radio Stereo Resurrección
 https://c7.radioboss.fm:8161/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w18lrjd.png" group-title="RADIO",Radio Para El Alma
@@ -504,8 +504,7 @@ https://b2-f000.radiocut.com.ar/file/radiocut/cnn-argentina/165/954/1659544088.3
 https://listen.radioking.com/radio/627562/stream/689917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1d9Dqc.png" group-title="RADIO",Bloomberg Radio
 https://tunein.streamguys1.com/bloomberg991
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t6SzXO1.png" group-title="RADIO",Fox News Radio 1
-https://tunein.streamguys1.com/foxnews
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6SzXO1.png" group-title="RADIO",Fox News Radio 2
 https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/foxfree/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1IsX3BT.png" group-title="RADIO",rfi
@@ -571,7 +570,7 @@ http://rs3.domint.net:8198/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irO7VBN.png" group-title="RADIO",fmvepaco
 https://us3.streamingpulse.com/ssl/vpfm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TP7bwHS.png" group-title="RADIO",104.9 Mortal FM Santo Domingo
-https://n11.radiojar.com/x84tcy2wm2zuv?rj-ttl=5&rj-tok=AAABhoofIKkAVioIn586a6f1Fg
+https://radio.telemicro.com.do/mortal104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ktDQL8r.png" group-title="RADIO",93.3 Independencia FM Santo Domingo
 https://n10.radiojar.com/nc893hafc8zuv?rj-ttl=5&rj-tok=AAABhopMNL8ABiicKLGLGF1wXg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QXMFAjs.png" group-title="RADIO",Primera Santiago
@@ -838,7 +837,7 @@ http://node-14.zeno.fm/ta862vtbxqruv?rj-ttl=5&rj-tok=AAABeKJKq_oAv5DnWmroVGB-zg
 http://node-14.zeno.fm/gw0kpk6wt4zuv.aac?rj-ttl=5&rj-tok=AAABeKJLLy4Af8p0mzmJbXbwHQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3naT67k.png" group-title="RADIO",92.9 FM Paraíso
 https://stream.eleden.com:8240/wtpm.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2VguhbK.png" group-title="RADIO",103.7 Cima
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYZqH10.jpeg" group-title="RADIO",103.7 Cima
 https://stream.eleden.com:8262/rcima.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yHLmonI.png" group-title="RADIO",850 Waba
 https://stream.eleden.com/waba.aac/waba.aac.stream/playlist.m3u8
@@ -926,6 +925,8 @@ https://play.countrygospelradio.co.uk/radio/8000/stream.mp3
 https://pcr.streamguys1.com/pcrnational-96k.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wH2rIJV.jpg" group-title="RADIO",Premier Praise
 https://pcr.streamguys1.com/ppraise-96k.aac
+#EXTINF:-1 tvg-logo="" group-title="RADIO",UCB player 1 UK
+http://edge-audio-05-gos2.sharp-stream.com/ucbuk.mp3?device=ukradioplayer
 #EXTINF:-1 tvg-logo="" group-title="RADIO",UCB player 2 UK
 http://edge-audio-06-cr.sharp-stream.com/ucbinspirational.mp3?device=ukradioplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nq8kovu.png" group-title="RADIO",PRZ UK
@@ -1219,13 +1220,3 @@ https://chicstreaming.com
 https://media.staffcomm.net:8000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gDr80V.jpg" group-title="RADIO",CIAY-FM Life 100.7 FM
 https://ais-sa1.streamon.fm/7154_24k.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZb2LZN.png" group-title="RADIO",ABN Africa Audio
-https://rtmp2.abnvideos.com/hls/abnafrica_audio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/43KsvuS.png" group-title="RADIO",ABN Hindi Audio
-https://rtmp2.abnvideos.com/hls/abntvindia_audio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g277s8E.png" group-title="RADIO",ABNSAT
-https://rtmp2.abnvideos.com/hls/arabic_audio.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNmVD92.png" group-title="RADIO",ABN China
-https://rtmp2.abnvideos.com/hls/abnchina.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zAewxON.png" group-title="RADIO",ABN India
-https://rtmp2.abnvideos.com/hls/abntvindia.m3u8
