@@ -8,7 +8,7 @@ https://stream.gia.tv/giatv/giatv-misioneltv/misioneltv/playlist.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/255220923.secure.m3u8?dw=14400&hdnea=st%3D1737472693~exp%3D1737474493~acl%3D%2Fi%2F27456795_10633780_lsi327mfw6un30lw1fr_1%40447446%2F%2A~hmac%3Dbb07238f93db24c317eff5c7db0d484ad911f3af3c25264c86442e397f53a13c&token=678fbbe1_d448ef3c7d5c4931c87f6850037e835107a91d60
+http://tvabierta.ddns.net:8080/memfs/668c0637-fb3c-4a26-8667-c61dec5fec0f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" tvg-id="0006",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
@@ -20,15 +20,15 @@ https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=IyoQt1oiAVTE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" tvg-id="0010",RD Teleantillas
 http://tvabierta.ddns.net:8080/8936c796-0d8b-4e0d-a760-9bf9b899245f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
-https://cdndirector.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=LTVz9bQ7j4jiWBZW78RKxEkeK9-p9jdMkVGP4qoWjRvKyGir1e2iTTzDpTFWlv_AIjOZXw_0C9Fg2b1ZCCm7wkr7ISSQGegYRWYH3Pjr7qI&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
+http://tvabierta.ddns.net:8080/memfs/7345bb42-1407-4180-b8b9-552d25afe469.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" tvg-id="0013",RD Telecentro
-https://player-api.new.livestream.com/accounts/27456795/events/10501048/broadcasts/255204723.secure.m3u8?dw=14400&hdnea=st%3D1737431634~exp%3D1737433434~acl%3D%2Fi%2F27456795_10501048_lsizrqayvuwyvg06jpr_1%40408789%2F%2A~hmac%3D8cff1a37b381242a86ade17110cf0e94b4ae67dc91e48a5f86a699d8f67ca63c&token=678f1b7e_ef47354912f00a6e647654ec9719e4741c4693cb
+http://tvabierta.ddns.net:8080/memfs/5c7e4012-0e01-4402-bbdd-ff87d0910904.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" tvg-id="0014",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" tvg-id="0015",RD Digital Quince
-https://player-api.new.livestream.com/accounts/27456795/events/10633798/broadcasts/255206530.secure.m3u8?dw=14400&hdnea=st%3D1737431606~exp%3D1737433406~acl%3D%2Fi%2F27456795_10633798_lsiendk3of4eq6mu48y_1%40446874%2F%2A~hmac%3De6ac845b1ebf092f91940820127b11721cba37193e127533c5e4e9bb21bdeaac&token=678f1b62_e83418d679766398be318ae1b2e49381ee3e0463
+http://tvabierta.ddns.net:8080/memfs/b04af913-2fe5-49fd-b8a0-e313db77e5bb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD" tvg-id="0016",RD N16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" tvg-id="0017",RD AION
