@@ -18,7 +18,7 @@ https://glb.bozztv.com/glb/ssh101/ctv8hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
 https://cdndirector.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=IyoQt1oiAVTEG_JZ7FsbMg91Pjn081LHW3H5C2sM5u3fXOo8TsOOsmk4xW4vP0YJscTlwsAFsAOjbZjWf4wplQ&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" tvg-id="0010",RD Teleantillas
-https://dmxleo.dailymotion.com/cdn/manifest/video/x8mwmvs.m3u8?auth=1737645380-2562-2xaluy0o-f2f9abea9e1f999d0f4367cb41cd0831EHLEf1X792L93tWtTlIRHaGTFklPL49dkvfbhLmYJnKpdQ58oMLdwx_9f59p_ECilDW05DcZIyU-BsrqUVP64HIFnYkbj4FzfAHKqJ1GxpT7uLOgSi-6B_ArbKh7fzhpUXGOKdKuwqgIW6fUYOArH7b0BkBVZIbHy7ba0wTiOq-a5zaKxqfo4xEWOykYKk-vdLE0REcbmZ_QmHuX9_0yPNfPGwZr3zXTZ31wPeyNPJKdhG92fdyZg_SXh7veYUi-DHIn6It1zumej-i1qdAbcp3NyauEwfdrJekfa13Ls8deXs7W1HQBdKHkKTO3WAOPhdbyGUPnD76grE9UEHyYfUs8kkPVha4vmBbfuk3PGKoHuwHva6cjmKbGHosvU03_2vomgc8IwKG5jyK9kUV0ONZJzxSXynLQOwnZBoVsCtvmSj--DWcL_lq58Hdu-aLQwjycxH93uqbz8uEZkJnDTIE27aEAPXwiJvocQEynYJcuEAxcLMhnAOcUzhFnu_e3uoXwiq87SQvSdpgUru37HRhllfnZiRVHO79AzoOosB4aKfGMDWqQp0RtPmbGQHjYud4xT9wettQ-ijTAaLFLdJi-P9KPLK2hKf7cWL4-PFct3ANATUmLXZGpUVgy_bXDyGpEJVUXEektYRJYD_4apQgPZ_58UUg3L4wzPfneFsg6S-bm6wZ4ZzIpWbLa4ztFQ1fzqx5q-8sovLEOK241WykTokD8qbIYFou7JgyrQsk_3VwIFyyF6DEH2UcM7eNrVJyP_VE8HhIPTlVEp5MQNX4eTnkuVjEKq7sdP_q65vbraarWGz1WRygMReB8cQzGe4AhcdfTYVPH86ezTzzchTWIuNKrpZvlGephlpYSkv7OKereRR_LV3_i7LuPnVKk7flck6xOSnxg2Kn17ao9uoBjR3vVq7DLExIBLgrMNNkvZCmqxii4cO-7pWerDIKBC4gx6eXFPwx9NA4CxS3xmwolme1VGfQbuCMUzC4Bg_poAQDvomTnvRqzA2Oj_Zk6rg_p-qMv2gDrJfGlNi9wFjO0Vyoeh61f2EREUYdtM4kRC0poUnkf4WryO528n_n_NFItagLOzWJ05RPf0CnVdev7EYdBSel_uLIuH3QNyR-TvrDxJXE97K8hPEcZaS-1UUZMmtJR-XrWxWGEKhIilNCDJBmawF655YRfDQtia2o6wC_8VNIVot2rWIOgypuJege3wl4mx1mKU5Vq6iuI2qQ&af=[APIFRAMEWORKS]&vv=[VASTVERSIONS]&mm=[MEDIAMIME]&pbm=[PLAYBACKMETHODS]&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1YNY&eb=https%3A%2F%2Fteleantillas.com.do%2F
+http://tvabierta.ddns.net:8080/8936c796-0d8b-4e0d-a760-9bf9b899245f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
 https://cdndirector.dailymotion.com/cdn/live/video/x80ac48.m3u8?sec=LTVz9bQ7j4jiWBZW78RKxEkeK9-p9jdMkVGP4qoWjRvKyGir1e2iTTzDpTFWlv_AIjOZXw_0C9Fg2b1ZCCm7wkr7ISSQGegYRWYH3Pjr7qI&dmTs=849765&dmV1st=83c2df03-bc6b-4e68-a976-6605625b2a30
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
@@ -76,7 +76,7 @@ https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkzbit6.png" group-title="RD" tvg-id="0038",RD Acento
 rtmp://acentotv01.streamprolive.com/stream/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vshjA7l.png" group-title="RD" tvg-id="0039",RD Coral
-https://fl1002.bozztv.com/ssh101/rctvhd21/tracks-v1a1/mono.m3u8
+http://tvabierta.ddns.net:8080/memfs/7a622532-9c6c-4bff-96ba-3d865b345df7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynEAZY4.png" group-title="RD" tvg-id="0040",RD Vozz
 https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jGNIexA.png" group-title="RD" tvg-id="0041",RD AltantoTV
@@ -1414,17 +1414,17 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAK1tp3.png" group-title="CO" tvg-id="",CO Cablenoticias
 https://u.tvabierta.net/memfs/a8f5ac78-758e-4337-be65-0e7d61af7ec3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="CO" tvg-id="",CO Telemedellin 
-https://u.tvabierta.net/memfs/5486f738-3e7e-419a-b640-1097f4347832.m3u8
+http://tvabierta.ddns.net:8080/memfs/178ee32e-8d0b-4b28-99f1-db3e9b8653e9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="CO" tvg-id="",CO Telemedellin Radio
 https://u.tvabierta.net/memfs/57f4ac14-28a8-4d98-902f-627e4772b673.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybSn8tp.png" group-title="CO" tvg-id="0765",CO CityTV
 https://u.tvabierta.net/memfs/8580da16-b1bf-4b59-b6b7-7c1aa58fa683.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hTclxXq.png" group-title="CO" tvg-id="0767",CO Trece
-https://u.tvabierta.net/memfs/ba2b1d0a-16c9-4998-8c62-60952ffcdc16.m3u8
+http://tvabierta.ddns.net:8080/memfs/9199a38e-ae73-4d81-972b-bca3ee476aa0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oCy2IPM.png" group-title="CO" tvg-id="",CO Eduvision
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6tchk4.jpeg" group-title="CO",Teleantioquia
-https://u.tvabierta.net/memfs/b24e799d-2c20-4a61-b28a-f90cbb00eb2a.m3u8
+http://tvabierta.ddns.net:8080/memfs/dcc2c320-1d44-4b35-bab4-37b1029d0cf8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rLmCHpa.png" group-title="CO" tvg-id="0771",CO Teleantioquia GO
 https://u.tvabierta.net/memfs/140fd8ca-82a1-4c4c-8c94-249f7c450167.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/glopy4i.png" group-title="CO" tvg-id="",CO TV Peñol
@@ -1468,13 +1468,13 @@ https://u.tvabierta.net/memfs/e60ff908-6bcb-4520-b31e-15ac2beaff3e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dXWWclB.png" group-title="CO" tvg-id="0787",CO Canal Acuario
 https://u.tvabierta.net/memfs/0b4a4e69-4626-4e28-9252-842740cd3140.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GN4JWDJ.png" group-title="CO",CO Telecafé
-https://u.tvabierta.net/memfs/903ea6d3-e7ff-4a78-8706-f6b0d5b36ccd.m3u8
+http://tvabierta.ddns.net:8080/memfs/6081f2b7-6c58-452e-a7e6-4a3c6b3a0352.m3u8
 #EXTINF:-1 group-title="CO" tvg-logo="https://i.imgur.com/UkyzocH.png",Canal Uno
 https://u.tvabierta.net/memfs/06825e2d-a24b-45b5-b625-e4bbf28ad510.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bdBduvj.png" group-title="CO",Canal Tro
-https://u.tvabierta.net/memfs/bb2a1e1f-97d8-4f07-b43f-fcded4846a9f.m3u8
+http://tvabierta.ddns.net:8080/memfs/6494e892-1331-4a68-a9d9-15c5599351c6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mphK70i.png" group-title="CO",Canal Tro Plus
-https://u.tvabierta.net/memfs/b568d2cf-e1db-4101-93ca-6cdf50bdb8db.m3u8
+http://tvabierta.ddns.net:8080/memfs/b891bb2a-eb33-4625-becc-5b7023b6860d.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zBlJRd7.png" group-title="CO",CO Teleislas
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 
