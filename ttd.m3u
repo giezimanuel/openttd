@@ -8,7 +8,7 @@ https://stream.gia.tv/giatv/giatv-misioneltv/misioneltv/playlist.m3u8
 #EXTINF:-1 group-title="RD" tvg-logo="https://i.imgur.com/gLYPLI4.png" tvg-id="0004",RD RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jgwi3fP.png" group-title="RD" tvg-id="0005",RD Telemicro
-http://15.235.115.88:8080/memfs/f74d5027-040c-4374-8905-2edfbca29552.m3u8
+https://ds.tvabierta.net/memfs/f74d5027-040c-4374-8905-2edfbca29552.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Sbom2.png" group-title="RD" tvg-id="0006",RD Canal del Sol
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecrwWe2.png" group-title="RD" tvg-id="0007",RD Antena7
@@ -16,19 +16,19 @@ https://d3mhrz6vhsrmmq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dk9USAF.png?2" group-title="RD" tvg-id="0008",RD ConstanzaTV
 https://glb.bozztv.com/glb/ssh101/ctv8hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="RD" tvg-id="0009",RD Color Vision
-http://15.235.115.88:8080/memfs/eb78f429-c05e-4c37-b8c1-18713f6af9ba.m3u8
+https://ds.tvabierta.net/memfs/eb78f429-c05e-4c37-b8c1-18713f6af9ba.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AUUC3iw.png" group-title="RD" tvg-id="0010",RD Teleantillas
-http://15.235.115.88:8080/memfs/9fe21fdc-a270-425e-acf4-e34eaea644a4.m3u8
+https://ds.tvabierta.net/memfs/9fe21fdc-a270-425e-acf4-e34eaea644a4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mm2g9U3.png" group-title="RD" tvg-id="0011",RD Telesistema
-http://15.235.115.88:8080/memfs/bd29c83f-37f3-493d-af1b-36f0f83b3527.m3u8
+https://ds.tvabierta.net/memfs/bd29c83f-37f3-493d-af1b-36f0f83b3527.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDRU7Ne.png" group-title="RD" tvg-id="0012",RD ZTV
-http://15.235.115.88:8080/memfs/c21d0965-114d-4419-85d5-29eeed8cfe9b.m3u8
+https://ds.tvabierta.net/memfs/c21d0965-114d-4419-85d5-29eeed8cfe9b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5rEOyF.png" group-title="RD" tvg-id="0013",RD Telecentro
-http://15.235.115.88:8080/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4.m3u8
+https://ds.tvabierta.net/memfs/278304e6-dc2b-4ebd-a6c0-9b23d08a72f4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXHhJlJ.png" group-title="RD" tvg-id="0014",RD Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dMYndw.png" group-title="RD" tvg-id="0015",RD Digital Quince
-http://15.235.115.88:8080/memfs/82427373-dadd-4f9d-8563-14d989e8c0c8.m3u8
+https://ds.tvabierta.net/memfs/82427373-dadd-4f9d-8563-14d989e8c0c8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdKhDRH.png" group-title="RD" tvg-id="0016",RD N16
 https://admin:abielintegridad2@cdn.essastream.com:3457/live/noticiasn16live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwIK5uL.png" group-title="RD" tvg-id="0017",RD AION
