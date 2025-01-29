@@ -6,10 +6,6 @@ TV & TTD INTERNACIONAL
 
 https://github.com/giezimanuel/openttd/raw/main/ttd.m3u
 
-RD
-
-https://github.com/giezimanuel/openttd/raw/main/rd.m3u
-
 RADIO: 
 
 https://github.com/giezimanuel/openttd/raw/main/radio.m3u
