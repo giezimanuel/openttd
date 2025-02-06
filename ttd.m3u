@@ -706,38 +706,19 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZJuJeE.png" group-title="PY",PY Trece
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jnRh9rV.png" group-title="PR",PR CDM
-https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bTaV8q4.png" group-title="PR",PR Buena
-https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wS43Ytu.png" group-title="PR" tvg-id="1180",PR MegaTV 
-https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gKt1JmD.png" group-title="PR",PR Radio Isla
-https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ksxl4eM.png" group-title="PR",PR Master TV Video
-https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRx7nZP.png" group-title="PR",PR Nueva Vida
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="PR",PR T
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/syrAbTr.png" group-title="PR",PR NotiUno
-https://server40.servistreaming.com:3951/live/notiunotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ANxjUDT.png" group-title="PR",PR Boricua
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCRNnnP.png" group-title="PR",PR CTNi
-https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BE9B5SD.png" group-title="PR",PR WIPR
 https://streamwipr.pr/hls/stream/1_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2GnQTq.png" group-title="PR",PR La-X
-https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsNI3vQ.jpg" group-title="PR",PR NG-Radio
-https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HOViG9.png" group-title="PR",PR Salvación TV
-https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PR",PR TeleNorte
-https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rjmGc9p.png" group-title="PR",PR Mastv
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="PR",PR T
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wS43Ytu.png" group-title="PR" tvg-id="1180",PR MegaTV 
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/syrAbTr.png" group-title="PR",PR NotiUno
+https://server40.servistreaming.com:3951/live/notiunotvlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gKt1JmD.png" group-title="PR",PR Radio Isla
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRx7nZP.png" group-title="PR",PR Nueva Vida
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="VE",VE VTV
 https://ds.tvabierta.net/memfs/1af28f5c-15b6-4264-aee6-63a2b08f1451.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18vp26h.png" group-title="VE" tvg-id="1202",VE Venevision
